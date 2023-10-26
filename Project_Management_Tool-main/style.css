@@ -11,6 +11,7 @@ html{
 }
 body{
     background: linear-gradient(to right, #000000,#24172c,#841abc,#841abc);
+    background-image: url('abstract-digital-grid-black-background_53876-97647.avif');
     font-family: 'Poppins', sans-serif;
     color: #000;
 }
